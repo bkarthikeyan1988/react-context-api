@@ -1,0 +1,17 @@
+.container {
+  padding: 16px;
+}
+
+.learning {
+  border:1px solid #CCC;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.acceptButton {
+  background: #10A881;
+  color: #FFF;
+  padding: 16px;
+  border: 0;
+  box-shadow: none;
+}
